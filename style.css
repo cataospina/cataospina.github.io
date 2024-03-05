@@ -1,5 +1,5 @@
 body {
- background-image: linear-gradient(#FFFFFF,#8f7193);
+ background-image: linear-gradient(#ffe5f0,#8f7193);
  font-family: Bookman Old Style, serif;
  font-size: 100%
 }
@@ -12,10 +12,10 @@ text-align: center;
 
 h2{
 font-size:150%;
-color:#B6DEE7;
+color:#273746;
 padding-left: 15px;
 }
 
 p{
-color: #B6DEE7;
+color: #273746;
 }
