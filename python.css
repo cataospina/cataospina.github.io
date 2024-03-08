@@ -1,6 +1,6 @@
 body {
- background-color: #c591db;
- font-family: sans-serif; 
+ background-color: #c7f6d4;
+ font-family: Bookman Old Style, serif; 
  font-size: 100%
 }
 
@@ -8,14 +8,14 @@ body {
  
 h1{
 font-size: 250%;
-color: #000DFF;
+color: #000000;
 text-align: center;
 }
 
 
 h2{
 font-size:150%;
-color:#8E1414;
+color:#c93384;
 padding-left: 15px;
 text-decoration: underline;
 }
